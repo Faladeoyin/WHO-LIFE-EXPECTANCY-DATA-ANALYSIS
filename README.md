@@ -1,2 +1,3 @@
 # WHO-LIFE-EXPECTANCY-DATA-ANALYSIS
-An Analysis of Word Health Organization's Life Expectancy Data Over A Period Of 16 Years.
+Analysis of the World Health Organization's life expectancy data sets, which I scrapped via Kaggle.
+The information in this analysis covers the life expectancy, health, and economic demography of 136 countries over a period of 16 years.
